@@ -11,6 +11,7 @@
   inputs.src-illwill_unsafe-master.ref   = "refs/heads/master";
   inputs.src-illwill_unsafe-master.owner = "matthewjcavalier";
   inputs.src-illwill_unsafe-master.repo  = "illwill_unsafe";
+  inputs.src-illwill_unsafe-master.dir   = "";
   inputs.src-illwill_unsafe-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
