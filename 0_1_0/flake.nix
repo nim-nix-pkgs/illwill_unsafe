@@ -11,7 +11,6 @@
   inputs.src-illwill-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-illwill-0_1_0.owner = "matthewjcavalier";
   inputs.src-illwill-0_1_0.repo  = "illwill_unsafe";
-  inputs.src-illwill-0_1_0.dir   = "";
   inputs.src-illwill-0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
