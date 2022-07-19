@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658031925,
-        "narHash": "sha256-Yh2qtqZGaOkZdXkA4drKJmIWENAMUxf5PQhOvTR1h5M=",
+        "lastModified": 1658201483,
+        "narHash": "sha256-3Smjvhm+cMHHbX+/8u9ONSLC50NNIttTkGxmKQUlcF4=",
         "owner": "nim-nix-pkgs",
         "repo": "illwill_unsafe",
-        "rev": "b4bc383c976e8d923ff777fbe17e3a84e0885a2b",
+        "rev": "b2671e14d53178865a3bce7c4d781af427a08f03",
         "type": "github"
       },
       "original": {
